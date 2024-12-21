@@ -1,9 +1,10 @@
 # Advanced Optimization Problems with R
 
-This repository contains implementations of various optimization algorithms in R, applied to benchmark problems. It is divided into two main scripts:
+This repository contains a comprehensive collection of optimization algorithms implemented in R, designed to solve both basic and advanced optimization problems. The focus is on practical applications and performance comparison across various methods. The repository is divided into two key scripts:
 
-1. **Script.R** - Focuses on basic optimization problems and compares several algorithms for performance. 🛠️
-2. **Script_Advanced.R** - Implements advanced optimization techniques like Ant Colony Optimization (ACO) with grid search refinement. 🐜
+1. **Script.R** - This script tackles basic optimization challenges by comparing several widely used algorithms. It provides insights into their efficiency and effectiveness in finding optimal solutions for constrained and unconstrained problems. 🛠️
+
+2. **Script_Advanced.R** - This script delves into advanced optimization techniques, showcasing the implementation of Ant Colony Optimization (ACO) combined with grid search refinement. It explores optimization in multidimensional spaces with a detailed 3D visualization of objective functions and their optima. 🐜
 
 ---
 
@@ -106,3 +107,4 @@ This project is inspired by advanced optimization techniques and demonstrates pr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+
